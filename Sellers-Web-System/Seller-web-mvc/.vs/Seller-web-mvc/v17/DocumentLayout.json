@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projetos\\netProjects\\Sellers-Web-System\\Seller-web-mvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B65A96-E4DB-410B-87F3-7B09B2222048}|Seller-web-mvc\\Seller-web-mvc.csproj|c:\\projetos\\netprojects\\sellers-web-system\\seller-web-mvc\\seller-web-mvc\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2B65A96-E4DB-410B-87F3-7B09B2222048}|Seller-web-mvc\\Seller-web-mvc.csproj|solutionrelative:seller-web-mvc\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B65A96-E4DB-410B-87F3-7B09B2222048}|Seller-web-mvc\\Seller-web-mvc.csproj|c:\\projetos\\netprojects\\sellers-web-system\\seller-web-mvc\\seller-web-mvc\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B65A96-E4DB-410B-87F3-7B09B2222048}|Seller-web-mvc\\Seller-web-mvc.csproj|solutionrelative:seller-web-mvc\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B65A96-E4DB-410B-87F3-7B09B2222048}|Seller-web-mvc\\Seller-web-mvc.csproj|c:\\projetos\\netprojects\\sellers-web-system\\seller-web-mvc\\seller-web-mvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B65A96-E4DB-410B-87F3-7B09B2222048}|Seller-web-mvc\\Seller-web-mvc.csproj|solutionrelative:seller-web-mvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\projetos\\netProjects\\Sellers-Web-System\\Seller-web-mvc\\Seller-web-mvc\\Views\\Departments\\Index.cshtml",
+              "RelativeDocumentMoniker": "Seller-web-mvc\\Views\\Departments\\Index.cshtml",
+              "ToolTip": "C:\\projetos\\netProjects\\Sellers-Web-System\\Seller-web-mvc\\Seller-web-mvc\\Views\\Departments\\Index.cshtml",
+              "RelativeToolTip": "Seller-web-mvc\\Views\\Departments\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-07T02:37:18.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\projetos\\netProjects\\Sellers-Web-System\\Seller-web-mvc\\Seller-web-mvc\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "Seller-web-mvc\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\projetos\\netProjects\\Sellers-Web-System\\Seller-web-mvc\\Seller-web-mvc\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "Seller-web-mvc\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T02:33:38.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\projetos\\netProjects\\Sellers-Web-System\\Seller-web-mvc\\Seller-web-mvc\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Seller-web-mvc\\Models\\Department.cs",
+              "ToolTip": "C:\\projetos\\netProjects\\Sellers-Web-System\\Seller-web-mvc\\Seller-web-mvc\\Models\\Department.cs",
+              "RelativeToolTip": "Seller-web-mvc\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T02:31:48.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
